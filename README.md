@@ -31,6 +31,8 @@ As a result, with the new and unique strategies, we can be successful with the r
 - quick registration and subscription option over the KIOSK for riders.
 - Electric Ride-Share Bike options for users whose birth year is ~1950 and before.
 
-LINK TO STORY https://public.tableau.com/views/Book4-END/BikeUtilization?:language=en-US&:display_count=n&:origin=viz_share_link
+#### LINK TO STORY 
+Current View: https://public.tableau.com/shared/695XN86XT?:display_count=n&:origin=viz_share_link
+Original View: https://public.tableau.com/views/Challenge_15_16550933969650/Deliverable3-Story?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 
